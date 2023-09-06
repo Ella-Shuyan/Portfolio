@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About Me Yeah
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
